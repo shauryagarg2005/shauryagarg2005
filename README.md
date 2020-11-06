@@ -11,4 +11,4 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
 You can Follow me on <a href="https://twitter.com/DemonKingSwarn">Twitter</a>, i remain most active there.<br>
 I also have a <a href="https://instagram.com/demonkingswarn">Instagram</a> account where i mostly showcase my art.
 <br>
-https://swarnaditya.glitch.me/ & https://demonkingswarn.github.io/
+I also have two websites which are https://swarnaditya.glitch.me/ & https://demonkingswarn.github.io/, so if you have time then do visit :D
