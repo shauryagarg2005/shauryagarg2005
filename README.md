@@ -12,3 +12,10 @@ You can Follow me on <a href="https://twitter.com/DemonKingSwarn">Twitter</a>, i
 I also have a <a href="https://instagram.com/demonkingswarn">Instagram</a> account where i mostly showcase my art.
 <br>
 I also have two websites which are https://swarnaditya.glitch.me/ & https://demonkingswarn.github.io/, so if you have time then do visit :D
+
+<hr>
+:video_game: Currently working on: Confined
+<br>
+You may ask what's Confined now?
+so basically its a 3D Horror Game in which me and my team is working on. It will be released on Windows, Linux and Android.
+<br>
