@@ -10,6 +10,6 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
 
 You can Follow me on <a href="https://twitter.com/DemonKingSwarn">Twitter</a>, i remain most active there :D
 <br>
-<a href"https://instagram.com/demonkingswarn">Instagram</a>
+My <a href"https://instagram.com/demonkingswarn">Instagram</a>
 <br>
 https://swarnaditya.glitch.me/ & https://demonkingswarn.github.io/
