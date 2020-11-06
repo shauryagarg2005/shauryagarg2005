@@ -8,10 +8,7 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
 <br>
  <h2>Link to my socials:-</h2>
 
-You can Follow me on <a href="https://twitter.com/DemonKingSwarn">Twitter</a>, i remain most active there :D
-<br>
-
-My <a href"https://instagram.com/demonkingswarn">Instagram</a>
-
+You can Follow me on <a href="https://twitter.com/DemonKingSwarn">Twitter</a>, i remain most active there.<br>
+I also have a <a href="https://instagram.com/demonkingswarn">Instagram</a> account where i mostly showcase my art.
 <br>
 https://swarnaditya.glitch.me/ & https://demonkingswarn.github.io/
