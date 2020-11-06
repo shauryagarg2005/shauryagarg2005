@@ -49,5 +49,5 @@
 		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=replit' alt='REPL.IT'>
 	</a>
 	&emsp;
-</div>
+</div> 
 
