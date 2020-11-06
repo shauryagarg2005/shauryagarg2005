@@ -1,4 +1,4 @@
-### Hello! 👋
+<h1>Hello!</h1>
 
 <!--**DemonKingSwarn/DemonKingSwarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**--!>
 
@@ -9,5 +9,7 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
  <h2>Link to my socials:-</h2>
 
 <a href"https://instagram.com/demonkingswarn">Instagram</a>
+<br>
 <a href="https://twitter.com/DemonKingSwarn">Twitter</a>
+<br>
 https://swarnaditya.glitch.me/ & https://demonkingswarn.github.io/
