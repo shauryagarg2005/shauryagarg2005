@@ -16,6 +16,6 @@ I also have two websites which are https://swarnaditya.glitch.me/ & https://demo
 <hr>
 :video_game: Currently working on: Confined
 <br>
-You may ask what's Confined now?
+You may ask what's Confined now?<br>
 so basically its a 3D Horror Game in which me and my team is working on. It will be released on Windows, Linux and Android.
 <br>
