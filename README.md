@@ -39,5 +39,5 @@ So basically its a 3D Horror Game in which me and my team is working on. It will
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=demonkingswarn&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=demonkingswarn&repo=github-readme-stats&theme=material-palenight" />
 </a> 
