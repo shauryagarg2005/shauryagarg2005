@@ -19,3 +19,5 @@ I also have a portfolio website which is https://swarnaditya.glitch.me/, so if y
 You may ask what's Confined now?<br>
 So basically its a 3D Horror Game in which me and my team is working on. It will be released on Windows, Linux and Android.
 <br>
+
+[![DemonKingSwarn's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonKingSWarn)](https://github.com/DemonKingSwarn/github-readme-stats)
