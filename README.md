@@ -23,6 +23,7 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
 <a href="https://www.linkedin.com/in/swarnaditya-singh-9bb732205/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
+<br>
 I also have a portfolio website which is https://swarnaditya.glitch.me/, so if you have time then do visit :D
 
 <hr>
