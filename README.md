@@ -2,7 +2,7 @@
 
 <!--**DemonKingSwarn/DemonKingSwarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**--!>
 
-My name is Swarnaditya Singh, also known as DemonKingSwarn, I'm a 17 year old computer enthusiast.
+My name is Swarnaditya Singh, also known as DemonKingSwarn, I'm a 18 year old computer enthusiast.
 I'm currently studying PCM in Ranchi, Jharkhand,
 and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">youtube channel</a> and my own <a href="gamersinunitystudios.weebly.com">gamedev company</a>.
 <br>
@@ -20,4 +20,4 @@ You may ask what's Confined now?<br>
 So basically its a 3D Horror Game in which me and my team is working on. It will be released on Windows, Linux and Android.
 <br>
 
-[![DemonKingSwarn's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonKingSWarn)](https://github.com/DemonKingSwarn/github-readme-stats)
+`[![DemonKingSwarn's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonKingSWarn)](https://github.com/DemonKingSwarn/github-readme-stats)`
