@@ -8,14 +8,21 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
 <br>
  <h2>Link to my socials:-</h2>
 <a href="https://twitter.com/demonkingswarn">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/demonkingswarn/demonkingswarn/main/assets/twitter.svg" />
-</a>
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
 <a href="https://discord.gg/uvbCTWQTmE">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/demonkingswarn/demonkingswarn/main/assets/discord-round.svg" />
 </a>
+<a href="https://www.instagram.com/demonkingswarn">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
 <br>
-I also have a <a href="https://instagram.com/demonkingswarn">Instagram</a> account where i mostly showcase my art.
-<br>
+<a href="https://github.com/demonkingswarn">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+<a href="https://www.linkedin.com/in/swarnaditya-singh-9bb732205/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 I also have a portfolio website which is https://swarnaditya.glitch.me/, so if you have time then do visit :D
 
 <hr>
