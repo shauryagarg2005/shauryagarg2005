@@ -13,7 +13,7 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
 <a href="https://discord.gg/uvbCTWQTmE">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/demonkingswarn/demonkingswarn/main/assets/discord-round.svg" />
 </a>
-
+<br>
 I also have a <a href="https://instagram.com/demonkingswarn">Instagram</a> account where i mostly showcase my art.
 <br>
 I also have a portfolio website which is https://swarnaditya.glitch.me/, so if you have time then do visit :D
