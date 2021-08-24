@@ -19,5 +19,5 @@ I also have a portfolio website which is https://swarnaditya.glitch.me/, so if y
 You may ask what's Confined now?<br>
 So basically its a 3D Horror Game in which me and my team is working on. It will be released on Windows, Linux and Android.
 <br>
-#[![DemonKingSwarn's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonkingswarn)](https://github.com/demonkingswarn/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats.vercel.app" <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=demonkingswarn&show_icons=true&include_all_commits=true&theme=material-palenight" alt="DemonKingSwarn's github stats" /></a>
