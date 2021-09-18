@@ -56,5 +56,5 @@ So basically its a 3D Horror Game in which me and my team is working on. It will
 </a>
 
 <!-- logo goes here -->
-![](https://github.com/DemonKingSwarn/DemonKingSwarn/blob/main/Assets/cutedemon1.png)
+<img align="center" src="https://github.com/DemonKingSwarn/DemonKingSwarn/blob/main/Assets/cutedemon1.png" />
 
