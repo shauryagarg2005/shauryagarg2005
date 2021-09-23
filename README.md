@@ -40,6 +40,6 @@ I also have a portfolio website which is https://swarnaditya.glitch.me/, so if y
 
 <hr>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=demonkingswarn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DemonKingSwarn's github stats" /></a> |  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=demonkingswarn&layout=compact&theme=material-palenight" />
-</a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=demonkingswarn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DemonKingSwarn's github stats" /></a> |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonkingswarn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
