@@ -25,14 +25,6 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
   </a>
 <br>
 I also have a portfolio website which is https://swarnaditya.glitch.me/, so if you have time then do visit :D
-
-<hr>
-:video_game: Currently working on: Confined
-<br>
-You may ask what's Confined now?<br>
-So basically its a 3D Horror Game in which me and my team is working on. It will be released on Windows, Linux and Android.
-<br>
-
 <hr>
 <br>
 <h3>Languages and Tools:</h3>
