@@ -40,9 +40,7 @@ I also have a portfolio website which is https://swarnaditya.glitch.me/, so if y
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=demonkingswarn&show_icons=true&include_all_commits=true&theme=material-palenight" alt="DemonKingSwarn's github stats" />
-<a href="https://github.com/anuraghazra/github-readme-stats">
+![DemonKingSwarn's GitHub stats](https://github-readme-stats.vercel.app/api?username=demonkingswarn&count_private=true&show_icons=true)
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=demonkingswarn&layout=compact&theme=material-palenight" />
 </a> 
