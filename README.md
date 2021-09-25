@@ -24,7 +24,7 @@ and running a <a href="https://www.youtube.com/SwarnadityaSinghTheGamingGuruji">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 <br>
-I also have a portfolio website which is https://swarnaditya.glitch.me/, so if you have time then do visit :D
+I also have a portfolio website which is https://demonkingswarn.is-a.dev/, so if you have time then do visit :D
 <hr>
 <br>
 <h3>Languages and Tools:</h3>
