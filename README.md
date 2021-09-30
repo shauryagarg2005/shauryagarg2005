@@ -45,3 +45,6 @@ I also have a portfolio website which is https://demonkingswarn.is-a.dev/, so if
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DemonKIngSwarn)
