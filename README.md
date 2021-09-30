@@ -46,6 +46,9 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=demonkingswarn&show_icons=true&theme=tokyonight&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonkingswarn&layout=compact&theme=tokyonight" width="45.6%">
 
+<p>Random readme joke for you (make your own by clicking it)</p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <p align="center">
   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/>
   <br>
