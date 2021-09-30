@@ -56,7 +56,7 @@
 <br><br>
 <img src="https://github-profile-trophy.vercel.app/?username=demonkingswarn&theme=onedark" width="100%">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=demonkingswarn&show_icons=true&theme=tokyonight&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonkingswarnlayout=compact&theme=tokyonight" width="45.6%">
+<img src="https://github-readme-stats.vercel.app/api?username=demonkingswarn&show_icons=true&theme=tokyonight&count_private=true" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonkingswarn&layout=compact&theme=tokyonight" width="45.6%">
 
 <p align="center">
   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/>
