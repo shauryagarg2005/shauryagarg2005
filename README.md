@@ -3,7 +3,7 @@
 
 ## I'm a Game Developer and 2D Artist
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning zig language
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
