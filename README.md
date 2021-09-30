@@ -1,7 +1,5 @@
 ### Hi there, I'm  Swarnaditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png"> 
 <!--**DemonKingSwarn/DemonKingSwarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**--!>
-[![Twitter Follow](https://img.shields.io/twitter/follow/ZiyodovAnvar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/DemonKIngSwarn?s=09)
-<img align="left" alt="codeSTACKr's Github Stats" src="https://readme-stats-beta.vercel.app/api?username=demonkingswarn&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
 ## I'm a Game Developer and 2D Artist
 
 - 🌱 I’m currently learning everything
