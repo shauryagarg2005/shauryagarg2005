@@ -4,7 +4,7 @@
 ## I'm a Game Developer and 2D Artist
 
 - 🌱 I’m currently learning zig language
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 <!--  ### Spotify Playing 🎧
