@@ -9,12 +9,6 @@
     <a href="https://discord.gg/JF85vTkDyC"><img src="https://invidget.switchblade.xyz/JF85vTkDyC"></a>
 </p>
 
----
-
-<div align="center">
-<a href="https://discord.com/users/453522683745927178"><code><img src="https://discord.c99.nl/widget/theme-3/453522683745927178.png" height="80px"></code></a>
-</div>
-
 <hr>
 
 <details align="center">
