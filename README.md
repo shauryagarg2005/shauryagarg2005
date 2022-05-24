@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+    <a href="https://discord.com/users/453522683745927178"><code><img src="https://discord.c99.nl/widget/theme-4/453522683745927178.png" height="80px"></code></a>
     <a href="https://discord.gg/JF85vTkDyC"><img src="https://invidget.switchblade.xyz/JF85vTkDyC"></a>
 </p>
 
