@@ -4,6 +4,6 @@
 
 <hr>
 
-    <i>
-        BASH, CSharp, Lua, Python and Zig.
-    </i>
+<i>
+BASH, CSharp, Lua, Python and Zig.
+</i>
