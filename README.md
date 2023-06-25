@@ -5,9 +5,7 @@
     I am a 2D artist, programmer, Linux user and FOSS enthusiast.
 </p>
 
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=DemonKingSwarn&theme=dark&show_icons=true)  
-</p>
 
 <hr>
 
