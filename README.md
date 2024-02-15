@@ -1,9 +1,13 @@
 # Hello There
 
-![My stats](https://github-readme-stats.vercel.app/api?username=DemonKingSwarn&theme=dracula&show_icons=true)  
-![My streak](https://github-readme-streak-stats.herokuapp.com/?user=DemonKingSwarn&theme=dracula&hide_border=false)<br/>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonKingSwarn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<hr>
+<div style="font-size: 0.5rem;>*warning! a lot of projects were killed to get here.</div>
+
+&nbsp;
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonKingSwarn&hide_border=true&include_all_commits=true&count_private=true&hide=HLSL,HTML,CSS,Mathematica,shaderlab&theme=dracula)
+![Tier](https://github-readme-stats.vercel.app/api?username=DemonKingSwarn&hide_border=true&include_all_commits=true&count_private=true&theme=dracula)
 
 ## Badges
 
