@@ -34,22 +34,39 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DemonKingSwarn&theme=dracula&hide_border=false" height="220" alt="streak graph">
 </div>
 
-## Badges
+###
 
-### Operating Systems
+<br clear="both">
 
+<h3 align="center">Badges</h3>
+
+<h4 align="center">Operating Systems</h4>
+
+<div align="center">
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+</div>
 
-### Social
+###
 
+<br clear="both">
+
+<h3 align="center">Social</h3>
+
+<div align="center">
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/453522683745927178/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnaditya.isometric@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/demonkingswarn)
+</div>
 
-### Version Control
+###
 
+<br clear="both">
+
+<h3 align="center">Version Control</h3>
+
+<div align="center">
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+</div>
