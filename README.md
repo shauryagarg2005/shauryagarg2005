@@ -1,13 +1,9 @@
 # Hello There
 
-<div style="font-size: 0.5rem;>*warning! a lot of projects were killed to get here.</div>
-
-&nbsp;
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonKingSwarn&hide_border=true&include_all_commits=true&count_private=true&hide=HLSL,HTML,CSS,Mathematica,shaderlab,VBA&theme=dracula)
-![Tier](https://github-readme-stats.vercel.app/api?username=DemonKingSwarn&hide_border=true&include_all_commits=true&count_private=true&theme=dracula)
+![My stats](https://github-readme-stats.vercel.app/api?username=DemonKingSwarn&theme=dracula&show_icons=true)  
+![My streak](https://github-readme-streak-stats.herokuapp.com/?user=DemonKingSwarn&theme=dracula&hide_border=false)<br/>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonKingSwarn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr>
 
 ## Badges
 
@@ -18,9 +14,9 @@
 
 ### Social
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/453522683745927178/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnaditya.isometric@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/demonkingswarn)
 
 ### Version Control
 
