@@ -1,9 +1,38 @@
-# Hello There
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/f11260c8fcb3c396e4f8f149074844a731de0c070c0cbb09f95bd03dfe42f3ea/68747470733a2f2f646c2e6f70656e73656175736572646174612e636f6d2f63616368652f6f726967696e496d6167652f66696c65732f35323761393738336332386337303936323737336137336462373937656134642e676966"  />
+</div>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=DemonKingSwarn&theme=dracula&show_icons=true)  
-![My streak](https://github-readme-streak-stats.herokuapp.com/?user=DemonKingSwarn&theme=dracula&hide_border=false)<br/>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonKingSwarn&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<hr>
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/swarnadityasingh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="22" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DemonKingSwarn.DemonKingSwarn&"  />
+</div>
+
+###
+
+<h3 align="center">Hi 👋! I'm Swarnaditya Singh and I'm a Game Developer</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DemonKingSwarn&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&locale=en&hide_border=false&order=1" height="250" alt="stats graph">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonKingSwarn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DemonKingSwarn&theme=dracula&hide_border=false" height="220" alt="streak graph">
+</div>
 
 ## Badges
 
