@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<h3 align="center">Social</h3>
+<h4 align="center">Social</h4>
 
 <div align="center">
     <a href="https://discordapp.com/users/453522683745927178/"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<h3 align="center">Version Control</h3>
+<h4 align="center">Version Control</h4>
 
 <div align="center">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
