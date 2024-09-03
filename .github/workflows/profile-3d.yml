@@ -3,6 +3,9 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule:
     - cron: "0 18 * * *"
+  push:
+    paths:
+      - ".github/workflows/profile-3d.yml"
   workflow_dispatch:
 
 jobs:
